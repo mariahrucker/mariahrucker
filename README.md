@@ -198,7 +198,7 @@ public class StarWarsScrabbleGame {
 <p align="center"><!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mariahrucker&rank_icon=github&show_icons=true" alt="Mariah's github stats" />
   <a href="https://github.com/mariahrucker">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahrucker" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahrucker&hide=html,css,shell" />
   </a>
 </p>
 	
