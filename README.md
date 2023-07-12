@@ -13,7 +13,7 @@
 ```C++
 std::string name = "Mariah Rucker";
 std::string wizard_name = "オーロラ ブラックウッド";
-std::string location = "Wakanda";
+std::string location = "Las Vegas, Nevada";
 std::string personality_type = "ENTP";
 std::string career = "Cybersecurity";
 std::string patronus = "Thestral";
@@ -196,9 +196,9 @@ public class StarWarsScrabbleGame {
 	</p>
 	
 <p align="center"><!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mariahrucker&rank_icon=github&show_icons=true&theme=radical" alt="Mariah's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariahrucker&rank_icon=github&show_icons=true" alt="Mariah's github stats" />
   <a href="https://github.com/mariahrucker">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahrucker&theme=radical&hide=html,css,shell" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahrucker" />
   </a>
 </p>
 	
